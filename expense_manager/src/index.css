@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.ant-anchor-link-title {
+    color: rgb(226, 225, 225) !important
+}
+
+.ant-btn:hover {
+    background-color: rgb(7, 65, 7) !important
+}
+
+form Button {
+    background-color: rgb(49, 100, 49) !important
+}
