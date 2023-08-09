@@ -3,13 +3,18 @@
 @tailwind utilities;
 
 .ant-anchor-link-title {
-    color: rgb(226, 225, 225) !important
+    color: rgb(211, 204, 204) !important
 }
 
 .ant-btn:hover {
-    background-color: rgb(7, 65, 7) !important
+    background-color: rgb(7, 65, 7) !important;
+    color: rgb(211, 204, 204) !important
 }
 
-form Button {
+form Button { 
     background-color: rgb(49, 100, 49) !important
+}
+
+.form-container{
+     padding-right: 4.5vw;
 }

@@ -52,9 +52,9 @@ function Header() {
     <div className="absolute flex justify-between items-center drop-shadow-lg ... h-20 top-0 w-full bg-gradient-to-r from-emerald-600 to-green-900 ...">
       <div className="flex w-96 justify-center items-center">
         <span>
-          <GiMoneyStack className="text-4xl text-emerald-800" />
+          <GiMoneyStack className="text-5xl text-emerald-800" />
         </span>
-        <h1 className="font-bold p-1 text-lg text-emerald-900">
+        <h1 className="font-bold p-1 text-xl text-emerald-900">
           Expense Manager
         </h1>
       </div>
