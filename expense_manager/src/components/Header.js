@@ -1,4 +1,3 @@
-// import { FcMoneyTransfer, FcManager } from "react-icons/fc";
 import { useSelector, useDispatch } from "react-redux";
 import { GiMoneyStack } from "react-icons/gi";
 import { CgProfile } from "react-icons/cg";
@@ -26,9 +25,9 @@ function Header() {
       title: "Expense Record",
     },
     {
-      key: "expense-receipt",
+      key: "expense-summary",
       href: "#part-3",
-      title: "Expense Receipt",
+      title: "Expense Summary",
     },
   ];
 
